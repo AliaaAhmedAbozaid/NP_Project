@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\P_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{269F6674-94F7-4F4F-9B19-BAD6B5E46466}|P_Server\\P_Server.csproj|c:\\users\\farah\\desktop\\aliaa\u0026nada\u0026sabreen\\p_server\\p_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269F6674-94F7-4F4F-9B19-BAD6B5E46466}|P_Server\\P_Server.csproj|solutionrelative:p_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525CCA4B-AE15-4758-9A84-CAB626A77C2F}|..\\p_client2\\p_client2.csproj|c:\\users\\farah\\desktop\\aliaa\u0026nada\u0026sabreen\\p_client2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269F6674-94F7-4F4F-9B19-BAD6B5E46466}|P_Server\\P_Server.csproj|C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\P_Server\\p_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{269F6674-94F7-4F4F-9B19-BAD6B5E46466}|P_Server\\P_Server.csproj|solutionrelative:p_server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{525CCA4B-AE15-4758-9A84-CAB626A77C2F}|..\\p_client2\\p_client2.csproj|c:\\users\\farah\\desktop\\aliaa\u0026nada\u0026sabreen\\p_client2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269F6674-94F7-4F4F-9B19-BAD6B5E46466}|P_Server\\P_Server.csproj|C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\P_Server\\p_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269F6674-94F7-4F4F-9B19-BAD6B5E46466}|P_Server\\P_Server.csproj|solutionrelative:p_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\P_Server\\P_Server\\Program.cs",
+              "RelativeDocumentMoniker": "P_Server\\Program.cs",
+              "ToolTip": "C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\P_Server\\P_Server\\Program.cs",
+              "RelativeToolTip": "P_Server\\Program.cs",
+              "ViewState": "AQIAAAcBAAAAAAAAAAAAAA4BAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:06:24.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\p_client2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\p_client2\\Form1.cs",
+              "ToolTip": "C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\p_client2\\Form1.cs",
+              "RelativeToolTip": "..\\p_client2\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:17:51.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\p_client2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\p_client2\\Form1.cs",
+              "ToolTip": "C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\p_client2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\p_client2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:17:40.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\P_Server\\P_Server\\Form1.cs",
+              "RelativeDocumentMoniker": "P_Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\P_Server\\P_Server\\Form1.cs",
+              "RelativeToolTip": "P_Server\\Form1.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:27:00.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\P_Server\\P_Server\\Form1.cs",
+              "RelativeDocumentMoniker": "P_Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\FARAH\\Desktop\\aliaa\u0026nada\u0026sabreen\\P_Server\\P_Server\\Form1.cs [Design]",
+              "RelativeToolTip": "P_Server\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:17:03.677Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
